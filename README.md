@@ -30,4 +30,4 @@ You can create a profile. You can buy and follow the products you like through o
 
 <h2>Gif</h2>
 
-<img src="../assets/gif/ecommerce.gif"/>
+<img src="ecommerce.gif" width="auto">
